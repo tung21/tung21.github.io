@@ -1,20 +1,20 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Gáy một chút về công nghệ | Bàn luận về Linux, cpp, etc
+description: "Gáy một chút về công nghệ."
+url: "https://www.tung21.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Đỗ Minh Tùng"
+  email: "it.endlov3@gmail.com"
+  url: "https://www.tung21.github.io"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
 paginate: 8
-paginate_path: /page:num/
+paginate_path: /page/:num/
 
 # Default values
 defaults:
