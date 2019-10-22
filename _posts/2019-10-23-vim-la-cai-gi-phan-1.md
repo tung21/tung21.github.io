@@ -16,7 +16,10 @@ Vim hiện tại vẫn đang được phát triển để nó trở nên tốt h
 ## Vì sao nên dùng Vim
   - Đối với mình thì nó rất nhẹ và nhanh không tốn quá nhiều bộ nhớ, khở động cực kì nhanh. Sau đây là bảng so sánh của vim với các editor khác:
 ![Vim memory](https://i.imgur.com/3Jo8fpZ.png)
-
+  - Tốc độ của Vim khi mở một file XML
+  ![Vim open XML](https://i.imgur.com/Up7B2F8.png)
+  - Thời gian được sử dụng trong vài giây để tìm kiếm và thay thế 100 000 trường hợp của một từ
+  ![Vim Find and Replace](https://i.imgur.com/ZW1YjLG.png)
   - Khi bạn đã sử dụng các editor khác như *Visual Studio Code*, *Sublime* hay *Atom* thì bạn hầu như phải sử dụng đến chuột (từ chuột đổi sang bàn phím rồi lại bàn phím sang chuột khá là mất thời gian). Còn khi bạn sử dụng Vim thì chỉ cần sử dụng bàn phím là đủ.
 
   - Như trên đã nói, Vim có khả năng tuy biến cao. Bạn có thể tùy chỉnh Vim  một cách linh hoạt nhất.
