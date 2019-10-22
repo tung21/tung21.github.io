@@ -1,5 +1,5 @@
 ---
-title: [VIM] - Vim là thứ gì? - Phần 1
+title: Vim - Khái niệm về Vim - Phần 1
 ---
 
 ## Vim là cái gì, thứ gì?
