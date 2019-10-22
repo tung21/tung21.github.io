@@ -1,6 +1,30 @@
 ---
 layout: page
-title: About Tung21
+title: About
 ---
-## About
-Nothing -_-
+## Một số thứ về tôi
+Họ tên đầy đủ của mình là Đỗ Minh Tùng. Mình quê ở **Nam Định** (là nơi có rất nhiều điểm du lịch nổi tiếng như *Đền Trần*, *Phủ Dày*, *Chợ Viềng* v.v.v), hiện tại đang sinh sống và học tập trên **Hà Nội**.
+
+Mình hiện tại đang học chuyên *ngành Vật Lý và Công nghệ* tại ***Hanoi University of Science*** - tương lai trở thành nhà Vật Lý :D. Tuy học bên *Vật lý* nhưng mình cũng đang tim hiểu một chút từ căn bản về *Công nghệ thông tin* - về ngôn ngữ lập trình C++ và Linux.
+
+## Bạn hâm mộ ai?
+Mình rất hâm mộ (Linus Torvalds)(https://vi.wikipedia.org/wiki/Linus_Torvalds) - người mà đã viết hệ điều hành [Linux](https://vi.wikipedia.org/wiki/Linux)
+[Linus Torvalds funny](https://i.imgur.com/gtXgcXm.png)
+### Những câu nói nổi tiếng của Linus Torvalds
+- Phần mềm giống như sex: nó sẽ thú vị hơn nếu miễn phí.
+- Microsoft không hề xấu, họ chỉ tạo ra các hệ điều hành "kém hấp dẫn" mà thôi.
+- Triết lý của Linux là "hãy cười vào nguy hiểm". Ồ quên, phải là "tự phục vụ" chứ!
+- Thông minh là khi bạn có khả năng tránh phải làm việc nhưng lại vẫn hoàn thành được công việc.
+- Tôi nghĩ chúng ta nên dừng việc chế nhạo Windows. Dù tôi là người ủng hộ Linux, tôi thừa nhận rằng "cửa sổ" - đối với người làm việc trong ngành IT và cả người sử dụng - rất có ích và giúp tăng hiệu quả công việc. (cà khịa Windown)
+
+và người thứ 2 là [Stephen Hawking](https://vi.wikipedia.org/wiki/Stephen_Hawking) - Nhà vật lý, vũ trọ học và là người viết những cuốn sách khoa học
+### Cuốn sách mà tôi thích nhất
+- Lược sử thời gian
+- Vũ trụ trong vỏ hạt dẻ (mình mới đọc được 2 quyển)
+
+## Về blog
+Đây là blog cá nhân có thể không tránh khỏi sai xót, mình chỉ viết blog dưới góc nhìn của mình sẽ có thể là gây khó chịu cho bạn. Nên bạn hay đọc và đưa ra ý kiến của bạn.
+
+# Liên Hệ
+Mọi yêu cầu bạn gửi vào [mail cá nhân của mình](mailto:it.endlov3@gmail.com)
+Link Facebook cá nhân của mình tại đây: [Đỗ Minh Tùng](https://www.facebook.com/minh.tung.21)
