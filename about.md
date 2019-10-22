@@ -5,10 +5,10 @@ title: About
 ## Một số thứ về tôi
 Họ tên đầy đủ của mình là Đỗ Minh Tùng. Mình quê ở **Nam Định** (là nơi có rất nhiều điểm du lịch nổi tiếng như *Đền Trần*, *Phủ Dày*, *Chợ Viềng* v.v.v), hiện tại đang sinh sống và học tập trên **Hà Nội**.
 
-Mình hiện tại đang học chuyên *ngành Vật Lý và Công nghệ* tại ***Hanoi University of Science*** - tương lai trở thành nhà Vật Lý :D. Tuy học bên *Vật lý* nhưng mình cũng đang tim hiểu một chút từ căn bản về *Công nghệ thông tin* - về ngôn ngữ lập trình C++ và Linux.
+Mình hiện tại đang học chuyên *ngành Vật Lý và Công nghệ* tại ***Hanoi University of Science*** - tương lai trở thành nhà Vật Lý (Trở lại con đường học tập sau 2 năm ăn chơi -_-) :D. Tuy học bên *Vật lý* nhưng mình cũng đang tim hiểu một chút từ căn bản về *Công nghệ thông tin* - về ngôn ngữ lập trình C++ và Linux.
 
 ## Bạn hâm mộ ai?
-Mình rất hâm mộ (Linus Torvalds)(https://vi.wikipedia.org/wiki/Linus_Torvalds) - người mà đã viết hệ điều hành [Linux](https://vi.wikipedia.org/wiki/Linux)
+Mình rất hâm mộ [Linus Torvalds](https://vi.wikipedia.org/wiki/Linus_Torvalds) - người mà đã viết hệ điều hành [Linux](https://vi.wikipedia.org/wiki/Linux)
 [Linus Torvalds funny](https://i.imgur.com/gtXgcXm.png)
 ### Những câu nói nổi tiếng của Linus Torvalds
 - Phần mềm giống như sex: nó sẽ thú vị hơn nếu miễn phí.
