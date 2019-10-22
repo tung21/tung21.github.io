@@ -9,7 +9,9 @@ Mình hiện tại đang học chuyên *ngành Vật Lý và Công nghệ* tại
 
 ## Bạn hâm mộ ai?
 Mình rất hâm mộ [Linus Torvalds](https://vi.wikipedia.org/wiki/Linus_Torvalds) - người mà đã viết hệ điều hành [Linux](https://vi.wikipedia.org/wiki/Linux)
-[Linus Torvalds funny](https://i.imgur.com/gtXgcXm.png)
+
+![Linus Torvalds funny](https://i.imgur.com/gtXgcXm.png)
+
 ### Những câu nói nổi tiếng của Linus Torvalds
 - Phần mềm giống như sex: nó sẽ thú vị hơn nếu miễn phí.
 - Microsoft không hề xấu, họ chỉ tạo ra các hệ điều hành "kém hấp dẫn" mà thôi.
