@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 ## Một số thứ về tôi
-Họ tên đầy đủ của mình là Đỗ Minh Tùng. Mình quê ở **Nam Định** (là nơi có rất nhiều điểm du lịch nổi tiếng như *Đền Trần*, *Phủ Dày*, *Chợ Viềng* v.v.v), hiện tại đang sinh sống và học tập trên **Hà Nội**.
+Họ tên đầy đủ của mình là Đỗ Minh Tùng. Mình quê ở **Nam Định**. Hiện tại đang học tập trên **Hà Nội**.
 
 Mình hiện tại đang học chuyên *ngành Vật Lý và Công nghệ* tại ***Hanoi University of Science*** - tương lai trở thành nhà Vật Lý (Trở lại con đường học tập sau 2 năm ăn chơi -_-) :D. Tuy học bên *Vật lý* nhưng mình cũng đang tim hiểu một chút từ căn bản về *Công nghệ thông tin* - về ngôn ngữ lập trình C++ và Linux.
 
@@ -23,6 +23,18 @@ và người thứ 2 là [Stephen Hawking](https://vi.wikipedia.org/wiki/Stephen
 ### Cuốn sách mà tôi thích nhất
 - Lược sử thời gian
 - Vũ trụ trong vỏ hạt dẻ (mình mới đọc được 2 quyển)
+
+### Những bộ tiểu thuyết mà tôi "cuồng' nhất
+- Chúa tể của những chiếc nhẫn - của nhà văn [J. R. R. Tolkien](https://vi.wikipedia.org/wiki/J._R._R._Tolkien) (Mình cuồng cuốn này nhất, xem đi xem lại không chán)
+
+![lord-of-the-rings](https://i.imgur.com/maxJeLs.jpg)
+
+- Don Quijote (Đôn-ki-hô-tê) - của [Miguel de Cervantes Saavedra](https://vi.wikipedia.org/wiki/Miguel_de_Cervantes_Saavedra)
+
+![Don Quijote](https://i.imgur.com/DLvE6fA.jpg)
+
+- Nhà Giả Kim - của nhà văn [Paulo Coelho]https://vi.wikipedia.org/wiki/Paulo_Coelho
+
 
 ## Về blog
 Đây là blog cá nhân có thể không tránh khỏi sai xót, mình chỉ viết blog dưới góc nhìn của mình sẽ có thể là gây khó chịu cho bạn. Nên bạn hay đọc và đưa ra ý kiến của bạn.
