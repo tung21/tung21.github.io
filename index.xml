@@ -6,7 +6,25 @@
     <description>Recent content on Write up my story | minhtung.pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Sep 2021 02:29:26 +0700</lastBuildDate><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 13:18:21 +0700</lastBuildDate><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tự custom header với flutter</title>
+      <link>https://minhtung.pro/posts/2021-09-12-tu-custom-mot-header-voi-flutter/</link>
+      <pubDate>Sun, 12 Sep 2021 13:18:21 +0700</pubDate>
+      
+      <guid>https://minhtung.pro/posts/2021-09-12-tu-custom-mot-header-voi-flutter/</guid>
+      <description>Basic 1class HomePage extends StatelessWidget { 2 const HomePage({Key? key}) : super(key: key); 3 4 @override 5 Widget build(BuildContext context) { 6 return Scaffold( 7 appBar: AppBar(title: Text(&amp;#39;Home&amp;#39;),), 8 ); 9 } 10} 11 List Syntax </description>
+    </item>
+    
+    <item>
+      <title>Một chút câu chuyện đi tiêm vacxin</title>
+      <link>https://minhtung.pro/posts/2021-09-12-mot-chut-cau-chuyen-tiem-vacxin/</link>
+      <pubDate>Sun, 12 Sep 2021 13:05:46 +0700</pubDate>
+      
+      <guid>https://minhtung.pro/posts/2021-09-12-mot-chut-cau-chuyen-tiem-vacxin/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://minhtung.pro/posts/my-first-post/</link>
