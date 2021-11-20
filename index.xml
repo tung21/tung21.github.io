@@ -1,48 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Write up my story | minhtung.pro</title>
+    <title>minhtung.pro</title>
     <link>https://minhtung.pro/</link>
-    <description>Recent content on Write up my story | minhtung.pro</description>
+    <description>Recent content on minhtung.pro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 13:18:21 +0700</lastBuildDate><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tự custom header với flutter</title>
-      <link>https://minhtung.pro/posts/2021-09-12-tu-custom-mot-header-voi-flutter/</link>
-      <pubDate>Sun, 12 Sep 2021 13:18:21 +0700</pubDate>
-      
-      <guid>https://minhtung.pro/posts/2021-09-12-tu-custom-mot-header-voi-flutter/</guid>
-      <description>Basic 1class HomePage extends StatelessWidget { 2 const HomePage({Key? key}) : super(key: key); 3 4 @override 5 Widget build(BuildContext context) { 6 return Scaffold( 7 appBar: AppBar(title: Text(&amp;#39;Home&amp;#39;),), 8 ); 9 } 10} 11 List Syntax </description>
-    </item>
-    
-    <item>
-      <title>Một chút câu chuyện đi tiêm vacxin</title>
-      <link>https://minhtung.pro/posts/2021-09-12-mot-chut-cau-chuyen-tiem-vacxin/</link>
-      <pubDate>Sun, 12 Sep 2021 13:05:46 +0700</pubDate>
-      
-      <guid>https://minhtung.pro/posts/2021-09-12-mot-chut-cau-chuyen-tiem-vacxin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://minhtung.pro/posts/my-first-post/</link>
-      <pubDate>Fri, 10 Sep 2021 02:29:26 +0700</pubDate>
-      
-      <guid>https://minhtung.pro/posts/my-first-post/</guid>
-      <description>String
-Using indents:
-text text text  </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://minhtung.pro/about/</link>
+      <title></title>
+      <link>https://minhtung.pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://minhtung.pro/about/</guid>
-      <description>Hi 👋, I&amp;rsquo;m MinhTungPRO A passionate mobile app developer from Vietnam  🌱 I’m currently learning Dart, Flutter 📝 I regularly write articles on https://minhtung.pro ⚡ Fun fact I&amp;rsquo;m not sweet  Languages and Tools:</description>
+      <guid>https://minhtung.pro/</guid>
+      <description>About me Hi i&amp;rsquo;m Tung. A passionate mobile app developer from Vietnam.
+Languages: Dart, Golang
+Research Interest [nothing]
+Projects [nothing]</description>
     </item>
     
   </channel>
