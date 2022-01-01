@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtung.pro/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://minhtung.pro/categories/</loc>
+    <lastmod>2022-01-01T12:56:38+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtung.pro/categories/life/</loc>
+    <lastmod>2022-01-01T12:56:38+07:00</lastmod>
   </url><url>
     <loc>https://minhtung.pro/</loc>
+    <lastmod>2022-01-01T12:56:38+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtung.pro/posts/</loc>
+    <lastmod>2022-01-01T12:56:38+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtung.pro/posts/2022-01-01-xin-chao-nam-2022/</loc>
+    <lastmod>2022-01-01T12:56:38+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtung.pro/about/</loc>
+    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url><url>
     <loc>https://minhtung.pro/tags/</loc>
   </url>

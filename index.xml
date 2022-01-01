@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minhtung.pro</title>
+    <title>Minh Tùng Chấm Bờ Rồ</title>
     <link>https://minhtung.pro/</link>
-    <description>Recent content on minhtung.pro</description>
+    <description>Recent content on Minh Tùng Chấm Bờ Rồ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>minhtung.pro</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 12:56:38 +0700</lastBuildDate><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://minhtung.pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Xin chào năm 2022</title>
+      <link>https://minhtung.pro/posts/2022-01-01-xin-chao-nam-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 12:56:38 +0700</pubDate>
       
-      <guid>https://minhtung.pro/</guid>
-      <description>About me Hi i&amp;rsquo;m Tung. A passionate mobile app developer from Vietnam.
-Languages: Dart, Golang
-Research Interest [nothing]
-Projects [nothing]</description>
+      <guid>https://minhtung.pro/posts/2022-01-01-xin-chao-nam-2022/</guid>
+      <description>Nothing</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://minhtung.pro/about/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      
+      <guid>https://minhtung.pro/about/</guid>
+      <description>Weooo căm tới với blog của thanh niên &amp;ldquo;loser&amp;rdquo; của năm :)</description>
     </item>
     
   </channel>
