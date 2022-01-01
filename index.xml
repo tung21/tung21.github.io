@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minhtung.pro</title>
+    <title>Minh Tùng Chấm Bờ Rồ</title>
     <link>https://minhtung.pro/</link>
-    <description>Recent content on minhtung.pro</description>
+    <description>Recent content on Minh Tùng Chấm Bờ Rồ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>minhtung.pro</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 12:56:38 +0700</lastBuildDate><atom:link href="https://minhtung.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://minhtung.pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Xin chào năm 2022</title>
+      <link>https://minhtung.pro/posts/2022-01-01-xin-chao-nam-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 12:56:38 +0700</pubDate>
       
-      <guid>https://minhtung.pro/</guid>
-      <description>About me Hi i&amp;rsquo;m Tung. A passionate mobile app developer from Vietnam.
-Languages: Dart, Golang
-Research Interest [nothing]
-Projects [nothing]</description>
+      <guid>https://minhtung.pro/posts/2022-01-01-xin-chao-nam-2022/</guid>
+      <description>Hôm nay đã là mùng 1 dương năm 2022. Tôi đã bước sang cái tuổi 23, cái tuổi nhẽ ra người ta đã trưởng thành lên bao nhiêu rồi. Vậy mà tôi cứ loanh qua loanh quanh tìm kiếm thứ gì đó 😒. Cám giác mình vẫn trẻ trâu thế nhỉ :(
+năm vừa qua Tôi lại nháp mọi người ơi. Năm 2021 vừa qua ở HN bùng dịch, tôi WFH 2 tháng công việc thì vẫn cứ oke nhưng mà làm ở nhà chán thật.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://minhtung.pro/about/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      
+      <guid>https://minhtung.pro/about/</guid>
+      <description>Weooo căm tới với blog của thanh niên &amp;ldquo;loser&amp;rdquo; (Học hành kém, nhạt nhẽo) của năm hết 😭
+Trang này chỉ để viết những thứ vớ va vớ vẩn thôi. Câu từ hay văn chương mình viết như shit. Cứ trong đầu nghĩ ra là viết thôi. (ngày xưa hồi cấp 2, 3 mình học văn toàn thi dưới mức trung bình và auto đứng góc lớp 😩).
+một chút về mình Cũng là một kẻ đam mê công nghệ, thích tìm tòi và nghịch ngợm (coding, lướt blog hay forum công nghệ).</description>
     </item>
     
   </channel>
